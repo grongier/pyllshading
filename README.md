@@ -4,13 +4,9 @@ pyllshading is a Python package to visualize reliefs on maps using shading.
 
 ## Installation
 
-First, clone pyanodi:
+You can directly install pyllshading from GitHub using pip:
 
-    git clone https://github.com/grongier/pyllshading.git && cd pyllshading
-
-Then, install it:
-
-    pip install .
+    pip install git+https://github.com/grongier/pyllshading.git
 
 ## Use
 
