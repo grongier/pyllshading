@@ -60,7 +60,7 @@ setup(
     keywords='hillshading geomorphometry raster elevation',
     packages=find_packages(),
     python_requires=">=3.7",
-    install_requires=['math', 'numpy', 'scipy', 'numba', 'scikit-image', 'rasterio', 'matplotlib'],
+    install_requires=['numpy', 'scipy', 'numba', 'scikit-image', 'rasterio', 'matplotlib'],
     project_urls={  # Optional
         'Source': 'https://github.com/grongier/pyllshading',
     },
