@@ -10,7 +10,7 @@ You can directly install pyllshading from GitHub using pip:
 
 ## Use
 
-See the Jupyter notebook [examples.ipynb](examples.ipynb).
+See the Jupyter notebook [normandy.ipynb](examples/normandy.ipynb).
 
 ## Citation
 
